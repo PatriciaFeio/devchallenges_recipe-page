@@ -48,6 +48,7 @@ For desktop:
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  - You can see my demo <a href="https://my-recipepage.netlify.app/">here</a>
 - What have you learned/improved?
   - I've learned Tailwind CSS.
 - Your wisdom? :)
